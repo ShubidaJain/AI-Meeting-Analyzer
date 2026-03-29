@@ -15,3 +15,15 @@ from meeting discussions automatically.
 - AI: Groq API
 - Deployment: Vercel + Render
 
+
+## 🛠 Setup Instructions
+
+### Backend 
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+
+### Frontend
+cd frontend
+npm install
+npm start
