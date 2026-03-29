@@ -27,3 +27,9 @@ uvicorn main:app --reload
 cd frontend
 npm install
 npm start
+
+## 📸 Features
+Login / Signup
+AI Analysis Dashboard
+History Tracking
+Copy Results
